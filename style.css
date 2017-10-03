@@ -7,6 +7,9 @@ html {
 
 #big {
   font-weight: bold;
-  font-size: 100px;
+  font-size: 75px;
 }
 
+p {
+  font-size: 16px;
+}
