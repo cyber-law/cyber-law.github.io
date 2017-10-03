@@ -2,10 +2,10 @@ html {
   background-color: black;
   color: white;
   font-family: sans-serif;
-  text-align: center;
 }
 
 #big {
+  text-align: center;
   font-weight: bold;
   font-size: 75px;
 }
